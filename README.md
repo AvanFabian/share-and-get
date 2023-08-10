@@ -1,3 +1,3 @@
 manage-and-remind-task
-<hr>
+<hr><br>
 This will make your life easier
