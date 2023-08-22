@@ -1,3 +1,2 @@
-manage-and-remind-task
+Upload an picture and see other peoples picture
 <hr><br>
-This will make your life easier
